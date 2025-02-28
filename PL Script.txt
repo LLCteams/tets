@@ -34,7 +34,7 @@ wait(1)
 
 game:GetService("StarterGui"):SetCore("SendNotification",{ 	
 Title = "Created by:",  	
-Text = "Executed by xirius_2",
+Text = "xirius_2",
 	Icon = "",
 	Duration = 5
 })
